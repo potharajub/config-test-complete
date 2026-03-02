@@ -1,0 +1,5 @@
+db:
+  username: SG-PROD
+  password: SG-PROD
+  url: SG-PROD
+  driverClass: SG-PROD

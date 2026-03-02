@@ -1,0 +1,5 @@
+db:
+  username: MM-PROD
+  password: MM-PROD
+  url: MM-PROD
+  driverClass: MM-PROD
