@@ -1,5 +1,5 @@
 db:
-  username: MM-PROD
-  password: MM-PROD
-  url: MM-PROD
-  driverClass: MM-PROD
+  username: MM-PROD-1
+  password: MM-PROD-1
+  url: MM-PROD-1
+  driverClass: MM-PROD-1
